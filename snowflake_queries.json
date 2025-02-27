@@ -1,0 +1,13 @@
+{
+    "COMPUTE_WH": {
+        "tables": [
+            "MY_FIRST_DBT_MODEL.sql: create or replace TRANSIENT TABLE MY_FIRST_DBT_MODEL (\n\tID NUMBER(1,0)\n);",
+            "MY_SECOND_DBT_MODEL.sql: create or replace TRANSIENT TABLE MY_SECOND_DBT_MODEL (\n\tID NUMBER(1,0)\n);"
+        ],
+        "views": []
+    },
+    "INFORMATION_SCHEMA": {
+        "tables": [],
+        "views": []
+    }
+}
